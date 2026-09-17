@@ -57,7 +57,3 @@ Documentation changes are managed through GitHub using branches, commits, pull r
 ## Project Disclaimer
 
 HCPP is a fictional platform created solely for this technical-writing portfolio. This repository does not contain proprietary information, source code, documentation, or confidential data from any employer or healthcare organization.
-
-## Disclaimer
-
-This project is fictional and was created solely as a technical writing portfolio. It does not contain proprietary information from any employer or healthcare organization.
