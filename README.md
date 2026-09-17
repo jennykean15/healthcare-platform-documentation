@@ -20,20 +20,43 @@ The project demonstrates experience with:
 
 ## Documentation
 
-This portfolio will include:
+This portfolio demonstrates multiple technical documentation types for the fictional Healthcare Claims Processing Platform (HCPP).
 
-- Quick Start Guide
-- How-To Guide
-- Troubleshooting Guide
-- Configuration Reference
-- Claims Processing Workflow
-- Technical Reference
+| Document | Purpose |
+| --- | --- |
+| [Quick Start Guide](./quick-start-guide.md) | Introduces platform access, claim submission, and basic navigation. |
+| [How to Resolve Claim Validation Errors](./how-to-resolve-claim-errors.md) | Provides task-oriented instructions for resolving validation errors. |
+| [Troubleshooting Guide](./troubleshooting-guide.md) | Documents common errors, resolutions, configuration issues, and escalation procedures. |
+| [Configuration Reference](./configuration-reference.md) | Defines configuration parameters, supported values, JSON/XML examples, and change-validation procedures. |
+| [Claims Processing Workflow](./claims-processing-workflow.md) | Visualizes claim validation, duplicate detection, processing, and error-handling logic using Mermaid. |
+
+## Skills Demonstrated
+
+This portfolio demonstrates hands-on experience with:
+
+- Markdown technical documentation
+- GitHub documentation workflows
+- Branches, commits, pull requests, reviews, and merges
+- Quick start documentation
+- Task-oriented how-to guides
+- Troubleshooting documentation
+- Configuration and reference documentation
+- JSON and XML examples
+- Mermaid diagram-as-code
+- Workflow and decision-logic documentation
+- Cross-document navigation
+- Structured technical content
+- Documentation quality assurance
 
 ## Documentation Approach
 
-Content is written using task-oriented documentation principles with an emphasis on clarity, accuracy, consistency, and usability.
+Documentation is organized around user goals and information needs. Content uses task-oriented writing principles, structured navigation, consistent terminology, and reusable documentation patterns.
 
-Documentation changes are managed through GitHub using branches, commits, pull requests, and reviews.
+Documentation changes are managed through GitHub using branches, commits, pull requests, reviews, and merges.
+
+## Project Disclaimer
+
+HCPP is a fictional platform created solely for this technical-writing portfolio. This repository does not contain proprietary information, source code, documentation, or confidential data from any employer or healthcare organization.
 
 ## Disclaimer
 
