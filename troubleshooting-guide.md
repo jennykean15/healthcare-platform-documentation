@@ -110,5 +110,5 @@ Providing complete information helps technical teams reproduce and resolve issue
 ## Related Documentation
 
 - [Quick Start Guide](./quick-start-guide.md)
-- Configuration Reference
-- Claims Processing Workflow
+- [Configuration Reference](./configuration-reference.md)
+- [Claims Processing Workflow](./claims-processing-workflow.md)
