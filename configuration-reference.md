@@ -110,4 +110,4 @@ For additional guidance, see the [Troubleshooting Guide](./troubleshooting-guide
 
 - [Quick Start Guide](./quick-start-guide.md)
 - [Troubleshooting Guide](./troubleshooting-guide.md)
-- Claims Processing Workflow
+- [Claims Processing Workflow](./claims-processing-workflow.md)
