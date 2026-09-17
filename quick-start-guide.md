@@ -47,7 +47,7 @@ Common statuses include:
 
 | Status | Description |
 | --- | --- |
-| Submitted | Claim was successfully received. |
+| Submitted | Claim was received and is awaiting validation or processing. |
 | Processing | Claim is undergoing validation and processing. |
 | Action Required | Additional information or correction is required. |
 | Completed | Claim processing is complete. |
