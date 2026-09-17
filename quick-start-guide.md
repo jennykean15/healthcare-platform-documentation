@@ -62,7 +62,7 @@ If you cannot access the platform or submit a claim:
 4. Review all required claim fields for missing information.
 5. Record any displayed error message or error code.
 
-For additional troubleshooting, see the **Troubleshooting Guide**.
+For additional troubleshooting, see the [Troubleshooting Guide](./troubleshooting-guide.md).
 
 ## Next Steps
 
@@ -74,4 +74,4 @@ After completing this guide, you should be able to:
 - Locate an existing claim
 - Interpret basic claim statuses
 
-Continue to the **How-To Guides** for detailed instructions on specific platform tasks.
+Continue to [How to Resolve Claim Validation Errors](./how-to-resolve-claim-errors.md) for detailed instructions on resolving validation issues.
